@@ -1,0 +1,19 @@
+.declined-job {
+  background-color: rgba(242, 82, 70, 0.5);
+}
+
+.approved-job {
+  background: rgba(83, 224, 121, 0.5);
+}
+
+.referred-job {
+  background-color: rgba(252, 211, 63, 0.5);
+}
+
+.jobs-table {
+  border: 1px black solid;
+}
+
+.jobs-row {
+  border-bottom: 1px black solid;
+}
